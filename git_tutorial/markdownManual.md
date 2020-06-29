@@ -253,7 +253,7 @@
    
    + 적용 예시
    
-     외부링크 : <https://google.com/>
+     외부링크 : <https://google.com/>   
      이메일링크 : <email@email.com>
      
 ### 7. 강조
@@ -268,11 +268,11 @@
    
    + 적용 예시
    
-     *ABCDEFG*
-     _ABCDEFG_
-     **ABCDEFG**
-     __ABCDEFG__
-     ~~ABCDEFG~~
+     *ABCDEFG*   
+     _ABCDEFG_   
+     **ABCDEFG**   
+     __ABCDEFG__   
+     ~~ABCDEFG~~   
 
 ### 8. 이미지
 
